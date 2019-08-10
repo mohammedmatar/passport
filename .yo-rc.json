@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "uaa",
+    "gitCompany": "",
+    "baseName": "passport",
+    "packageName": "xyz.matar.passport",
+    "packageFolder": "xyz/matar/passport",
+    "serverPort": 9999,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.2.0",
+    "jwtSecretKey": "YmY1NDk4YzZiMWY2NmIyNjExNGQ5MDA2NDQ5NzMwYWFiZWYxZmY1N2M0ZDE0MWU1NTczYTc2YTNlMTQ3MDc4NmEzYmIzY2Y0NWM5YjAwYTk1MTRlOGY1ZGNkMGMzOGRjNzI5MDI3MDY4ZGZiNmE4OGJkMTI5N2E3MDg2Mzc2MzY=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": [],
+    "skipClient": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "mohammedmatar",
+  "repository-name": "passport"
+}
